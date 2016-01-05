@@ -22,7 +22,7 @@ Just copy paste the stylesheet link into your header.
 
 ###What it looks like
 
-![Mockup](mockup-demo.png =338x248)
+![Mockup](https://raw.githubusercontent.com/internox/Mockup/master/mockup-demo.png =338x248)
 
 ####Extras
 
