@@ -22,7 +22,7 @@ Just copy paste the stylesheet link into your header.
 
 ###What it looks like
 
-![Mockup](https://raw.githubusercontent.com/internox/Mockup/master/mockup-demo.png =338x248)
+![Mockup](https://raw.githubusercontent.com/internox/Mockup/master/mockup-demo.png)
 
 ####Extras
 
@@ -31,6 +31,6 @@ This repo has the custom fonts to download Mockup into your computer, just downl
 
 ####Contributors
 
-* [Noe Araujo]('https://dribbble.com/nox')
+* https://dribbble.com/nox
 
-* [Oscar Elizondo]('https://github.com/oelizondo')
+* https://github.com/oelizondo
