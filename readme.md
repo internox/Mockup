@@ -21,6 +21,10 @@ Just copy paste the stylesheet link into your header.
 
 ###Done
 
+###What it looks like
+
+![Mockup](mockup-demo.png =338x248)
+
 ####Extras
 
 This repo has the custom fonts to download Mockup into your computer, just download the 
