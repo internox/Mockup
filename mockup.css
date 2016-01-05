@@ -1,0 +1,5 @@
+@font-face {
+  font-family: 'Mockup';
+  src: local('Mockup'), local('Mockup'),
+  url(https://raw.githubusercontent.com/internox/Mockup/master/mockup-webfont.woff2) format('woff2');
+}
