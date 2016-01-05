@@ -6,16 +6,21 @@
 
 Just copy paste the stylesheet link into your header.
 
-###In your html:
-
-```
-<link rel="stylesheet" href="https://raw.githubusercontent.com/internox/Mockup/master/mockup.css">
-```
-
 ###In your CSS:
 
 ```
-@font-family: 'Mockup';
+@font-face {
+  font-family: 'Mockup';
+  src: local('Mockup'), local('Mockup'),
+  url(https://raw.githubusercontent.com/internox/Mockup/master/mockup-webfont.woff) format('woff');
+}
+```
+
+And in your html elements:
+```
+ p {
+   @font-family: 'Mockup';
+  }
 ```
 
 ###Done
