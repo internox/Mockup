@@ -10,7 +10,6 @@ Just copy paste the stylesheet link into your header.
 
 ```
 <link rel="stylesheet" href="https://raw.githubusercontent.com/internox/Mockup/master/mockup.css">
-
 ```
 
 ###In your CSS:
@@ -27,7 +26,7 @@ Just copy paste the stylesheet link into your header.
 
 ####Extras
 
-This repo has the custom fonts to download Mockup into your computer, just download the 
+This repo has the custom fonts to download Mockup into your computer, just download the
 ```.ttf``` and ```.otf``` files and install them.
 
 ####Contributors
